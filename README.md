@@ -125,6 +125,8 @@ The 60-pin connectors are mechanically coded. Black EP connector is used for the
 
 **Citroen C3 Aircross 2020**: (TODO: find better route)
 
+**Citroen C4 Spacetourer 2018 Diagnostics**: 378c9bf47606eb28/0000003f--fe45cad1d1
+
 
 ### Debugging
 
